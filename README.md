@@ -1,5 +1,4 @@
-Case Study Campus – 2022
-Date Of Completion : 20th September 2022
+////---------------------------------------////
 The management of a company decides to store the personal details of all its employees in a MySQL Database. 
  It’s required to create a Java SE application that can fulfil the following requirements 
 Requirements 
