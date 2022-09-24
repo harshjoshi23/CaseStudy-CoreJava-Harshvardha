@@ -1,0 +1,10 @@
+[INFO ] 2022-09-23 21:02:27.658 [main]  - 1 new entity added to the lumen_employees table!
+[INFO ] 2022-09-23 21:02:45.487 [main]  - firstName=X, lastName=Y, address=Z, email=XYZ, phoneNumber=123, dateOfBirth=1111-11-11, dateOfWedding=1111-11-11
+[INFO ] 2022-09-23 21:02:49.982 [main]  - Rohan 81823453
+[INFO ] 2022-09-23 21:02:49.983 [main]  - X 123
+[INFO ] 2022-09-23 21:03:11.472 [main]  - Total 1 rows updated!
+[INFO ] 2022-09-23 21:04:18.475 [main]  - Total 0 rows deleted!
+[INFO ] 2022-09-23 21:04:31.874 [main]  - X WXYZ
+[INFO ] 2022-09-23 21:04:40.371 [main]  - X 123
+[INFO ] 2022-09-23 21:05:13.498 [main]  - X 123
+[INFO ] 2022-09-23 21:06:57.237 [main]  - Total 1 rows deleted!
